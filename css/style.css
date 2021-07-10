@@ -1,0 +1,107 @@
+body {
+  margin: 0;
+  text-align: center;
+  padding-top: 0px;
+  background-color: #F7D9D9;
+  font-family: 'Quicksand', sans-serif;
+
+}
+
+hr {
+  border-color: #b3ffcc;
+  border-style: dotted none none none;
+  border-width: 9px;
+  width: 20%;
+  margin: 90px auto 90px auto;
+
+}
+
+h1 {
+  margin: 0 auto 0 auto;
+  width: 20%;
+  padding-top: 50px;
+  font-family:'Cabin Sketch', cursive;
+  color: #F25287;
+}
+h2 {
+  font-family: 'Press Start 2P', cursive;
+  color: #F25287;
+
+}
+.top {
+  background-color: #b3ffcc;
+  position: relative;
+  margin-top: 0;
+
+}
+.middle-container {
+margin-bottom: 30px;
+}
+
+.tcloud {
+  position: absolute;
+  right: 200px;
+  top: 400px;
+}
+
+.bcloud {
+  position: absolute;
+}
+
+.meow {
+  border-color: #b3ffcc;
+  border-style: dotted;
+  border-radius: 100%;
+  padding: 20px;
+  border-width: thick;
+  margin-top: 10px;
+}
+.bigah { font-size: 450%;
+}
+.bigah2 {
+  font-size: 20px;
+}
+.skill-row {
+  width: 50%;
+  margin:  100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.skillpic {
+width: 30%;
+}
+.bio {
+  margin:auto;
+  width: 50%;
+  line-height: 2;
+}
+.bottom-container {
+  background-color: #b3ffcc;
+  margin: 0;
+}
+.hoe {
+  margin: 0;
+  padding: 25px;
+}
+h3 {
+  font-family: 'Press Start 2P', cursive;
+}
+
+.btn {
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  color: #ffffff;
+  font-size: 28px;
+  background: #f25287;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #b3ffcc;
+  text-decoration: none;
+}
+.con{
+  font-size: 400%;
+}
